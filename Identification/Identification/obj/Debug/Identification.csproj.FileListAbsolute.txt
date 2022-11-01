@@ -1,0 +1,8 @@
+G:\C#\Identification\Identification\Identification\bin\Debug\Identification.exe.config
+G:\C#\Identification\Identification\Identification\bin\Debug\Identification.exe
+G:\C#\Identification\Identification\Identification\bin\Debug\Identification.pdb
+G:\C#\Identification\Identification\Identification\obj\Debug\Identification.csproj.AssemblyReference.cache
+G:\C#\Identification\Identification\Identification\obj\Debug\Identification.csproj.SuggestedBindingRedirects.cache
+G:\C#\Identification\Identification\Identification\obj\Debug\Identification.csproj.CoreCompileInputs.cache
+G:\C#\Identification\Identification\Identification\obj\Debug\Identification.exe
+G:\C#\Identification\Identification\Identification\obj\Debug\Identification.pdb
